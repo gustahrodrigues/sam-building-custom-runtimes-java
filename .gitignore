@@ -1,0 +1,17 @@
+.aws-sam
+
+*.class
+target
+*/target
+dependency-reduced-pom.xml
+
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ artifacts
+/.idea
+*.iml
